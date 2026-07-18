@@ -22,7 +22,7 @@ The AI understands the request, extracts the travel details, and generates a com
 
 ## 🎥 Demo Video
 
-[Watch Demo Video](https://github.com/SinghKriti11/AI-Trip-Planner/blob/main/Recording%202026-07-18%20073057.mp4))
+[Watch Demo Video](https://github.com/SinghKriti11/AI-Trip-Planner/blob/main/Recording%202026-07-18%20073057.mp4)
 
 ---
 
