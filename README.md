@@ -20,6 +20,12 @@ The AI understands the request, extracts the travel details, and generates a com
 
 ---
 
+## 🎥 Demo Video
+
+[Watch Demo Video](https://github.com/YourUsername/AI-Trip-Planner/blob/main/demo.mp4)
+
+---
+
 # ✨ Features
 
 ### 🤖 AI-Powered Itinerary Generation
